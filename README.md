@@ -11,4 +11,4 @@ Hi there ^^,
 - Google Colab (Python), Python libraries (Pandas, Matplotlib, plotply)
 
 # Structure: 
-- all the project is in 1 file (Nobel_Prize_Analysis_(start).ipynb) in the same rep. 
+- all the project is in 1 file (Seaborn_and_Linear_Regression.ipynb) in the same rep. 
